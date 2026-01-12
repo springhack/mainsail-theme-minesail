@@ -15,7 +15,7 @@ Save the file as "sidebar-logo.png" and replace the one in the ".theme" folder.
 
 ## SpringHack's modify
 1. Add font [Fusion Pixel Font](https://github.com/TakWolf/fusion-pixel-font)
-2. Add fit for dark mode, fit mobile viewport
+2. Add fit for dark/light mode, fit mobile viewport
 
 ## Screenshot
 ![Screenshot of Minesail theme](screenshot.png)
