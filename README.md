@@ -13,9 +13,12 @@ To create your own Minecraft style logo, the best way is to use [this generator]
 
 Save the file as "sidebar-logo.png" and replace the one in the ".theme" folder.
 
+## SpringHack's modify
+1. Add font [Fusion Pixel Font](https://github.com/TakWolf/fusion-pixel-font)
+2. Add fit for dark mode, fit mobile viewport
 
 ## Screenshot
-![Screenshot of Minesail theme](screenshot.jpg)
+![Screenshot of Minesail theme](screenshot.png)
 
 ---
 <p align="center" height="50%">
